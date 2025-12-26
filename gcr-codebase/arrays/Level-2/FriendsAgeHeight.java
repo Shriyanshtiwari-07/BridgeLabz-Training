@@ -1,4 +1,6 @@
-import java.util.Scanner;
+=976543W2Q		QWc4567890-=
+\
+]+{"%th4rg3fqs	aQSWDF6Y7H0'-{?iñṆṬWimport java.util.Scanner;
 
 public class FriendsAgeHeight {
     public static void main(String[] args) {
