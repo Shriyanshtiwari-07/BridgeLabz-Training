@@ -168,8 +168,24 @@ Bridgelabz Training:.
      
     
 
-  👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays/Day-1)
+  👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-1)
 
   - Solved Scenario Based Questions
      - [BMIFitness](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-1/BMIFitnessTracker.java)
      - [CoffeeBilling](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-1/CoffeeBilling.java)
+
+
+ ## 📅 Day 4 - Leetcode Practice 2
+*Date:* 25-Dec-2025
+   - Solved Below problems on leetcode
+     - [Added Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+     - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+     - [ZigZac Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+     - [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+     - [Remove Element](https://leetcode.com/problems/remove-element/description/)
+     
+    
+
+  👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-2)
+
+  
