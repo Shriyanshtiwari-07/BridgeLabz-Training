@@ -154,3 +154,22 @@ Bridgelabz Training:.
   *Notes source:* <br>
   👉[Built in functions 1](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details) , 
   👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)
+
+  ---
+
+  ## 📅 Day 3 - Leetcode Practice 1
+*Date:* 24-Dec-2025
+   - Solved Below problems on leetcode
+     - [Two Sum](https://leetcode.com/problems/two-sum/description/)
+     - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+     - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+     - [Removes Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+     - [Remove Element](https://leetcode.com/problems/remove-element/description/)
+     
+    
+
+  👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays/Day-1)
+
+  - Solved Scenario Based Questions
+     - [BMIFitness](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-1/BMIFitnessTracker.java)
+     - [CoffeeBilling](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-1/CoffeeBilling.java)
