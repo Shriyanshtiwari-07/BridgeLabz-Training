@@ -2,15 +2,15 @@
 /.metadat/
 .metadata/
 
-.settings/
+JavaOopsConcepts/.settings/
 
-.classpath
+JavaOopsConcepts/.classpath
 
-.project
+JavaOopsConcepts/.project
 
 # Java build output
 
-bin/
+JavaOopsConcepts/bin/
 
 target/
 
