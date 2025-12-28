@@ -207,9 +207,26 @@ Bridgelabz Training:.
 
    - Solved Scenario Based Questions
 
-    - [Election Booth Manager](#)
-    - [Metro SmartCard](#)
-    - [ResultGenerator](#)
+  - [Election Booth Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/ElectionBoothManager.java)
+      Design a polling booth system.
+● Take age input.
+● Use if to check if eligible (>=18).
+● Record vote (1, 2, or 3 for candidates).
+● Loop for multiple voters, exit on special code.
+
+  - [Metro SmartCard](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/MetroSmartCard.java)
+    In Delhi Metro, fare varies by distance.
+● Ask the user for distance.
+● Calculate fare using ternary operator.
+● Deduct from smart card balance.
+Loop until balance is exhausted or the user quits.
+
+  - [ResultGenerator](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/ResultGenerator.java)
+    Raj runs a coaching center. He needs to generate results.
+● Input 5 subject marks.
+● Calculate average.
+● Switch to assign grades.
+● for-loop to iterate over subjects.
 
  
 ---
