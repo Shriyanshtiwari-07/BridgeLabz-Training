@@ -242,10 +242,26 @@ Loop until balance is exhausted or the user quits.
      - [Valid palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=string)
      
 
-   👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-3)
+   👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-4)
 
 
 ---
+
+
+## 📅 Day 7 - Leetcode Practice 5
+*Date:* 28-Dec-2025
+   - Solved Below problems on leetcode
+     - [Basic Calculator](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-5/BasicCalculator.java)
+     - [Basic Calculator2](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-5/BasicCalculator2.java)
+     - [Binary Tree](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-5/BinaryTree.java)
+     - [Excel sheets](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-5/ExcelSheet.java)
+     - [Isomorphic Strings](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-5/IsomorphicStrings.java)
+     - [Valid Anagram](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-5/ValidAnagram.java)
+     
+
+   👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-5)
+
+
 
 
 
