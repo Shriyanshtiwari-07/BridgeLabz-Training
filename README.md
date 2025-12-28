@@ -174,6 +174,7 @@ Bridgelabz Training:.
      - [BMIFitness](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-1/BMIFitnessTracker.java)
      - [CoffeeBilling](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-1/CoffeeBilling.java)
 
+---
 
  ## 📅 Day 4 - Leetcode Practice 2
 *Date:* 25-Dec-2025
@@ -188,4 +189,45 @@ Bridgelabz Training:.
 
   👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-2)
 
+
+---
+
+
+ ## 📅 Day 5 - Leetcode Practice 3
+*Date:* 26-Dec-2025
+   - Solved Below problems on leetcode
+     - [GenerateParenthesis](https://leetcode.com/problems/generate-parentheses/description/?envType=problem-list-v2&envId=string)
+     - [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=string)
+     - [Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=string)
+     - [String To Integer](https://leetcode.com/problems/longest-common-prefix/description/?envType=problem-list-v2&envId=string)
+     - [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=string)
+     
+    
+   👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-3)
+
+   - Solved Scenario Based Questions
+    - [Election Booth Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/ElectionBoothManager.java)
+    - [MetroSmart Card](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/MetroSmartCard.java)
+    - [ResultGenerator](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/ResultGenerator.java)
+
+ 
+---
+
   
+ ## 📅 Day 6 - Leetcode Practice 4
+*Date:* 27-Dec-2025
+   - Solved Below problems on leetcode
+     - [Add Binary](https://leetcode.com/problems/add-binary/description/?envType=problem-list-v2&envId=string)
+     - [Group Anagram](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=string)
+     - [Index FirstOccurence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=string)
+     - [LastWordLength](https://leetcode.com/problems/length-of-last-word/description/?envType=problem-list-v2&envId=string)
+     - [Valid palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=string)
+     
+
+   👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-3)
+
+
+---
+
+
+
