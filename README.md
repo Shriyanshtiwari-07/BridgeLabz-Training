@@ -207,9 +207,9 @@ Bridgelabz Training:.
 
    - Solved Scenario Based Questions
 
-    - [Election Booth Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/ElectionBoothManager.java)
-    - [MetroSmart Card](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/MetroSmartCard.java)
-    - [ResultGenerator](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-2/ResultGenerator.java)
+    - [Election Booth Manager](#)
+    - [Metro SmartCard](#)
+    - [ResultGenerator](#)
 
  
 ---
