@@ -262,6 +262,55 @@ Loop until balance is exhausted or the user quits.
    👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-5)
 
 
+---
 
+# Week3 : Working on Leetcode Problems and Scenario Based Questions
 
+---
+## 📅 Day 1 – Strings Arrays and Real World Problems
+*Date:* 29-Dec-2025 
 
+ Solved Below problems on leetcode
+     - [Merged Sorted List](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/MergedSortedList.java)
+     - [Integer to Roman](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/IntegerToRoman.java)
+     - [Closest Sum3](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/ClosestSum3.java)
+     - [Palindrome Number](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/PalindromeNumber.java)
+     - [Sum3](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/Sum3.java)
+     
+
+   👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-6)
+
+  Solved Scenario Based Questions
+    - [Number Guessing Game](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/NumberGuessingGame.java)
+    The Number Guessing Game 🎲
+    A game asks the player to guess a number between 1 and 100.
+   Core Java Scenario Based Problem Statements
+     ● Use do-while loop.
+     ● Give hints like "Too high" or "Too low".
+     ● Count attempts and exit after 5 wrong tries.
+
+    - [ParkinLotSystem](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ParkingLotSystem.java)
+     Parking Lot Gate System 🚗
+     Develop a smart parking system.
+        ● Options: Park, Exit, Show Occupancy
+        ● Use switch-case for the menu.
+        ● while loop to continue until the parking lot is full or the user exits.
+    - [Phone Recharge Simulator](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/PhoneRechargeSImulator.java)
+     Phone Recharge Simulator 📱
+    Take the user's mobile operator and amount.
+        ● Use a switch to display offers.
+        ● Loop to allow repeated recharges.
+        ● Show balance after each recharge.
+
+    - [ShopKeeper Discount](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ShopKeeperDiscount.java)
+     Shopkeeper’s Discount Dashboard 🛍️
+    A shopkeeper gives discounts based on total bill:
+        ● Input item prices in a for-loop.
+        ● Use if-else for discount logic.
+        ● Use proper indentation, constants, and comments.
+    - [Student Attendance](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/StudentAttendance.java)
+    School Bus Attendance System 🚍
+    Track 10 students' presence.
+        ● Use for-each loop on names.
+        ● Ask "Present or Absent?"
+        ● Print total present and absent counts.
