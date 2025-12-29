@@ -1,12 +1,13 @@
 # Eclipse specific files
 /.metadat/
 .metadata/
+/.settings/
 
-JavaOopsConcepts/.settings/
+/.classpath
 
-JavaOopsConcepts/.classpath
+/.project
+/.gitignore
 
-JavaOopsConcepts/.project
 
 # Java build output
 
@@ -23,3 +24,5 @@ target/
 .DS_Store
 
 Thumbs.db
+.classpath
+.project
