@@ -267,50 +267,70 @@ Loop until balance is exhausted or the user quits.
 # Week3 : Working on Leetcode Problems and Scenario Based Questions
 
 ---
-## 📅 Day 1 – Strings Arrays and Real World Problems
-*Date:* 29-Dec-2025 
+## 📅 Day 1 – Strings, Arrays & Real-World Problems  
+*Date:* 29-Dec-2025  
 
- Solved Below problems on leetcode
-     - [Merged Sorted List](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/MergedSortedList.java)
-     - [Integer to Roman](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/IntegerToRoman.java)
-     - [Closest Sum3](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/ClosestSum3.java)
-     - [Palindrome Number](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/PalindromeNumber.java)
-     - [Sum3](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/Sum3.java)
-     
+### ✅ LeetCode Problems Solved
+- [Merged Sorted List](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/MergedSortedList.java)
+- [Integer to Roman](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/IntegerToRoman.java)
+- [3Sum Closest](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/ClosestSum3.java)
+- [Palindrome Number](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/PalindromeNumber.java)
+- [3Sum](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/leetcode-codebase/arrays-strings/Day-6/Sum3.java)
 
-   👉[Code of above Problems](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-6)
+🔗 **Code Link:**  
+👉 [Day 6 – LeetCode Solutions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings/Day-6)
 
-  Solved Scenario Based Questions
-    - [Number Guessing Game](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/NumberGuessingGame.java)
-    The Number Guessing Game 🎲
-    A game asks the player to guess a number between 1 and 100.
-   Core Java Scenario Based Problem Statements
-     ● Use do-while loop.
-     ● Give hints like "Too high" or "Too low".
-     ● Count attempts and exit after 5 wrong tries.
+---
 
-    - [ParkinLotSystem](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ParkingLotSystem.java)
-     Parking Lot Gate System 🚗
-     Develop a smart parking system.
-        ● Options: Park, Exit, Show Occupancy
-        ● Use switch-case for the menu.
-        ● while loop to continue until the parking lot is full or the user exits.
-    - [Phone Recharge Simulator](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/PhoneRechargeSImulator.java)
-     Phone Recharge Simulator 📱
-    Take the user's mobile operator and amount.
-        ● Use a switch to display offers.
-        ● Loop to allow repeated recharges.
-        ● Show balance after each recharge.
+### ✅ Scenario-Based Problems Solved
 
-    - [ShopKeeper Discount](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ShopKeeperDiscount.java)
-     Shopkeeper’s Discount Dashboard 🛍️
-    A shopkeeper gives discounts based on total bill:
-        ● Input item prices in a for-loop.
-        ● Use if-else for discount logic.
-        ● Use proper indentation, constants, and comments.
-    - [Student Attendance](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/StudentAttendance.java)
-    School Bus Attendance System 🚍
-    Track 10 students' presence.
-        ● Use for-each loop on names.
-        ● Ask "Present or Absent?"
-        ● Print total present and absent counts.
+#### 🎲 Number Guessing Game
+- [NumberGuessingGame.java](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/NumberGuessingGame.java)
+
+**Description:**
+- Guess a number between 1 and 100  
+- Uses `do-while` loop  
+- Provides hints: *Too High / Too Low*  
+- Maximum 5 attempts allowed  
+
+---
+
+#### 🚗 Parking Lot Gate System
+- [ParkingLotSystem.java](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ParkingLotSystem.java)
+
+**Features:**
+- Menu-driven system (Park / Exit / Show Occupancy)
+- Uses `switch-case`
+- `while` loop for continuous execution
+
+---
+
+#### 📱 Phone Recharge Simulator
+- [PhoneRechargeSimulator.java](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/PhoneRechargeSImulator.java)
+
+**Features:**
+- Select mobile operator
+- Enter recharge amount
+- Offers handled using `switch`
+- Loop for multiple recharges
+- Shows updated balance after each recharge
+
+---
+
+#### 🛍️ Shopkeeper Discount Dashboard
+- [ShopKeeperDiscount.java](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/ShopKeeperDiscount.java)
+
+**Logic Used:**
+- Item prices input using `for` loop
+- Discount logic using `if-else`
+- Clean code with constants and comments
+
+---
+
+#### 🚍 School Bus Attendance System
+- [StudentAttendance.java](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-3/StudentAttendance.java)
+
+**Functionality:**
+- Tracks attendance of 10 students
+- Uses `for-each` loop
+- Displays total present and absent count
