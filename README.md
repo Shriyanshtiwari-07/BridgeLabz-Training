@@ -144,3 +144,13 @@ Code link
 
 
 -----
+
+
+### 🗓 Day 4 – Scenario based Questions 
+**Date:** 06-Jan-2026
+
+- Solved Four Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+-👉 [Day 4 – Fit Track](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/fittrack)
