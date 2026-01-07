@@ -116,3 +116,17 @@ Code link
 
 
 -----
+
+
+### 🗓 Day 2 – Scenario based Questions 
+**Date:** 03-Jan-2026
+
+- Solved Two Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+
+-👉 [Day 2 – My Bank](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/mybank)
+
+-----
+
