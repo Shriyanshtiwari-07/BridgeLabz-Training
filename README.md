@@ -57,13 +57,23 @@ Code link
 
 ---
 
-# Day 5 Inheritance 
-## Date: 31 Dec 2025  
+## Day 5: Inheritance
+**Date:** 31 Dec 2025
 
-> Studied fundamentals of - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance
-> Solved  programming questions based on Inheritance
-> Pushed the codes to GitHub  
-Code link  
+**Studied Fundamentals of:**
+- Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+
+**Practice Work:**
+- Solved programming questions based on Inheritance
+- Pushed the codes to GitHub
 
 [Day 5: Inheritance](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)  
 
