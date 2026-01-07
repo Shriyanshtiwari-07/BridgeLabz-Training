@@ -95,3 +95,24 @@ Code link
 - Pushed the codes to GitHub 
 [Day 6: Encapsulation](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)   
 
+
+---
+
+# Week 3: Object Oriented Programming  
+
+-----
+
+### 🗓 Day 1 – Scenario based Questions 
+**Date:** 02-Jan-2026
+
+- Solved Five Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+-👉 [Day 1 – Hospital Management](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/hospitalmanagement)
+-👉 [Day 1 – Vehicle Rental](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/vehiclerentalapplication)
+-👉 [Day 1 – E-Wallet App](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/ewalletapplication)
+-👉 [Day 1 – University course enrollment](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/universityenrollmentsystem)
+
+
+-----
