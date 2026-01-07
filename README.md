@@ -59,5 +59,19 @@ Code link
 > Solved  programming questions based on Inheritance
 > Pushed the codes to GitHub  
 Code link  
-[Day 5: Inheritance](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)   
+
+[Day 5: Inheritance](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)  
+
+
+---
+
+
+# Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism  
+## Date: 01 Jan 2026  
+
+> Studied fundamentals of - Encapsulation, Polymorphism , Interface, Abstract Classes 
+> Solved  programming questions based on Encapsulation 
+> Pushed the codes to GitHub  
+Code link  
+[Day 6: Encapsulation](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)   
 
