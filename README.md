@@ -128,5 +128,19 @@ Code link
 
 -👉 [Day 2 – My Bank](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/mybank)
 
+
 -----
 
+
+### 🗓 Day 3 – Scenario based Questions 
+**Date:** 05-Jan-2026
+
+- Solved Two Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+-👉 [Day 3 – Campus Connect](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/campusconnect)
+-👉 [Day 3 – Swift Cart](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/swiftcart)
+
+
+-----
