@@ -1,6 +1,6 @@
-📘# Week 3 – Data Structures & Algorithms (DSA)
+# Week 3 – Data Structures & Algorithms (DSA)
 
-📌 ## Day 1: Data Structures Fundamentals
+## Day 1: Data Structures Fundamentals
 
 🗓 Date: 02 January 2026
 
