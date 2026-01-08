@@ -128,6 +128,7 @@ Code link
 
 -👉 [Day 2 – My Bank](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/mybank)
 
+-👉 [Day 2 – CabbyGo](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/cabbyGo)
 
 -----
 
