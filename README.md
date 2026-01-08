@@ -153,4 +153,8 @@ Code link
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
+-👉 [Day 4 – Edu-Mentor](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/edumentor)
 -👉 [Day 4 – Fit Track](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/fittrack)
+-👉 [Day 4 – Pet Pal](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/petpal)
+-👉 [Day 4 – Event Ease](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/eventease)
+
