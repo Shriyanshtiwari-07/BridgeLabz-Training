@@ -159,3 +159,49 @@ Code link
 -👉 [Day 4 – Pet Pal](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/petpal)
 -👉 [Day 4 – Event Ease](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/eventease)
 
+
+----
+
+
+### 🗓 Day 5 – Scenario based Questions 
+**Date:** 07-Jan-2026
+
+- Solved Three Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+
+-👉 [Day 5 – Loan Buddy](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/loanbuddy)
+-👉 [Day 5 – Book Bazaar](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/bookbazaar)
+-👉 [Day 5 – ParkEase](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/parkease)
+
+
+----
+
+
+### 🗓 Day 6 – Scenario based Questions 
+**Date:** 08-Jan-2026
+
+- Solved Two Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+
+-👉 [Day 6 – Medi-Store](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/Mediciner)
+-👉 [Day 6 – TourMate](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/tourMate)
+
+
+----
+
+
+### 🗓 Day 7 – Scenario based Questions 
+**Date:** 09-Jan-2026
+
+- Solved Three Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+
+-👉 [Day 7 – Artify](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/artify)
+
+----
