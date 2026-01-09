@@ -71,3 +71,67 @@ Implemented and solved problems based on sorting algorithms
 
 💻 Code Repository:
 🔗 Day 3: [Sorting Algorithms](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sortingalgorithm)
+
+
+----
+
+
+📌 Day 4: Linear and Binary Search
+
+🗓 Date: 06 January 2026
+
+🔹 Topics Covered:
+
+StringBuilder
+
+StringBuffer
+
+FileReader 
+
+InputStreamReader
+
+Linear Search 
+
+Binary Search
+
+🧠 Practice:
+
+Implemented and solved problems based on Linear and Binary search
+
+💻 Code Repository:
+
+🔗 Day 3: [Linear and Binary Search](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearbinarysearch)
+
+
+
+----
+
+
+
+📌 Day 5: Algorithm's Runtime Analysis & Big-O Notation
+
+🗓 Date: 07 January 2026
+
+🔹 Topics Covered:
+
+ What is Runtime Analysis?
+
+ Understanding Big-O Notation
+
+ Time Complexity Analysis
+
+ Space Complexity Analysis
+
+ Best, Worst, and Average Case Complexities
+
+ Practical Guidelines for Optimizing Java Code
+
+🧠 Practice:
+
+Implemented and solved problems based on Algorithm's and Runtime Analysis
+
+💻 Code Repository:
+
+🔗 Day 3: [Algorithm's and Runtime Analysis](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
+
+
