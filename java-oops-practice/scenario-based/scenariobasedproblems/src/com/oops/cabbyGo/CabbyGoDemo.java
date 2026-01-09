@@ -1,17 +1,15 @@
 package com.oops.cabbyGo;
 
-
 public class CabbyGoDemo {
+    public static void main(String[] args) {
+        IRideService ride1 = new Sedan("Amit", "DL123", 4.5f, "MP09AB1234");
+        ride1.bookRide(10);
+        ride1.showVehicleDetails();
+        ride1.endRide();
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		SUV suv = new SUV("Ravi Gautam", "LK90245", 4.1f, "MP 34 BH 1197");
-		Sedan car = new Sedan("Ashish Kumar", "JG57245", 4.1f, "MP 51 BH 7593");
-		suv.bookRide(5.5);
-		suv.endRide();
-		suv.showVehicleDetails();
-		car.showVehicleDetails();
-	}
-
+        IRideService ride2 = new SUV("Rohit", "DL456", 4.7f, "MP09CD5678");
+        ride2.bookRide(8);
+        ride2.showVehicleDetails();
+        ride2.endRide();
+    }
 }
