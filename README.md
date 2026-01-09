@@ -140,7 +140,9 @@ Code link
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
+
 -👉 [Day 3 – Campus Connect](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/campusconnect)
+
 -👉 [Day 3 – Swift Cart](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/swiftcart)
 
 
@@ -154,9 +156,13 @@ Code link
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
+
 -👉 [Day 4 – Edu-Mentor](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/edumentor)
+
 -👉 [Day 4 – Fit Track](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/fittrack)
+
 -👉 [Day 4 – Pet Pal](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/petpal)
+
 -👉 [Day 4 – Event Ease](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/eventease)
 
 
@@ -172,7 +178,9 @@ Code link
 🔗 **Code Link:**  
 
 -👉 [Day 5 – Loan Buddy](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/loanbuddy)
+
 -👉 [Day 5 – Book Bazaar](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/bookbazaar)
+
 -👉 [Day 5 – ParkEase](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/parkease)
 
 
@@ -188,6 +196,7 @@ Code link
 🔗 **Code Link:**  
 
 -👉 [Day 6 – Medi-Store](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/Mediciner)
+
 -👉 [Day 6 – TourMate](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/tourMate)
 
 
