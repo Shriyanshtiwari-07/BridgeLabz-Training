@@ -229,4 +229,10 @@
 
 -👉 [Day 7 – Artify](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/artify)
 
+
+-👉 [Day 7 – FoodLoop](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/foodloop)
+
+
+-👉 [Day 7 – SkillForge](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/skillforge)
+
 ----
