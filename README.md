@@ -100,7 +100,7 @@ Implemented and solved problems based on Linear and Binary search
 
 💻 Code Repository:
 
-🔗 Day 3: [Linear and Binary Search](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearbinarysearch)
+🔗 Day 4: [Linear and Binary Search](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearbinarysearch)
 
 
 
@@ -132,6 +132,6 @@ Implemented and solved problems based on Algorithm's and Runtime Analysis
 
 💻 Code Repository:
 
-🔗 Day 3: [Algorithm's and Runtime Analysis](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
+🔗 Day 5: [Algorithm's and Runtime Analysis](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
 
 
