@@ -157,6 +157,20 @@ Implemented and solved problems based on Algorithm's and Runtime Analysis
 	
   🔗 **Code Link:** <br>
   👉[Day-2 Call Center](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/callcenter)<br>
-  👉[Day-2 Train Companion](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/traincompanion)<br>
-  👉[Day-2 Text Editor](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/texteditor)<br>
-  👉[Day-2 Traffic Manager](https://github.com/swarajtaneja/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/trafficmanager)<br>
+  👉[Day-2 Train Companion](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/traincompanion)<br>
+  👉[Day-2 Text Editor](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/texteditor)<br>
+  👉[Day-2 Traffic Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/trafficmanager)<br>
+
+
+----
+
+
+
+### Date: 13 Jan 2026  (Data Structure Algorithms(Scenario-Based)) AND LeetCode<br>
+     -Solved Three Scenario-based Problems (Day-3)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-3 Exam Proctor](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/examproctor)<br>
+  👉[Day-3 Parcel Tracker](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/parceltracker)<br>
+  👉[Day-3 Smart Checkout](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/smartcheckout)<br>	 
+  
