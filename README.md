@@ -166,7 +166,7 @@ Implemented and solved problems based on Algorithm's and Runtime Analysis
 
 
 
-### Date: 13 Jan 2026  (Data Structure Algorithms(Scenario-Based)) AND LeetCode<br>
+### Date: 13 Jan 2026  (Data Structure Algorithms(Scenario-Based)) 
      -Solved Three Scenario-based Problems (Day-3)
 	 
   🔗 **Code Link:** <br>
@@ -179,7 +179,7 @@ Implemented and solved problems based on Algorithm's and Runtime Analysis
   ----
 
 
-  ### Date: 15 Jan 2026  (Data Structure Algorithms(Scenario-Based)) AND LeetCode<br>
+  ### Date: 15 Jan 2026  (Data Structure Algorithms(Scenario-Based))
      -Solved Five Scenario-based Problems (Day-4)
 	 
   🔗 **Code Link:** <br>
