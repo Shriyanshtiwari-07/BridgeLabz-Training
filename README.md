@@ -174,3 +174,18 @@ Implemented and solved problems based on Algorithm's and Runtime Analysis
   👉[Day-3 Parcel Tracker](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/parceltracker)<br>
   👉[Day-3 Smart Checkout](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/smartcheckout)<br>	 
   
+
+
+  ----
+
+
+  ### Date: 15 Jan 2026  (Data Structure Algorithms(Scenario-Based)) AND LeetCode<br>
+     -Solved Five Scenario-based Problems (Day-4)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-4 Hospital Queue](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/hospitalqueue)<br>
+  👉[Day-4 Smart Shelf](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/smartshelf)<br>
+  👉[Day-4 Zip Zip Mart](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/zipzipmart)<br>
+  👉[Day-4 Event Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/eventmanager)<br>
+  👉[Day-4 Exam Cell](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/examcell)<br>
+  
