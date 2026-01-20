@@ -236,3 +236,39 @@
 -👉 [Day 7 – SkillForge](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/skillforge)
 
 ----
+
+### 🗓 Day 8 – Scenario based Questions 
+**Date:** 12-Jan-2026
+
+- Solved Three Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+
+-👉 [Day 8 – BudgetWIse](hhttps://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/budgetwise)
+
+
+-👉 [Day 8 – GameBox](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/budgetwise)
+
+
+-👉 [Day 8 – HomeNest](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/homenest)
+
+----
+
+
+### 🗓 Day 8 – Scenario based Questions 
+**Date:** 13-Jan-2026
+
+- Solved Two Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+
+-👉 [Day 9 – PayXpress](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/payxpress)
+
+
+-👉 [Day 9 – Bird Sanctuary](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobasedproblems/src/com/oops/birdsanctuary)
+
+
+-----
+
