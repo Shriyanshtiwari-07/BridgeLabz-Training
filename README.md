@@ -189,3 +189,49 @@ Implemented and solved problems based on Algorithm's and Runtime Analysis
   👉[Day-4 Event Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/eventmanager)<br>
   👉[Day-4 Exam Cell](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/examcell)<br>
   
+
+----
+
+
+
+  ### Date: 16 Jan 2026  (Data Structure Algorithms(Scenario-Based))
+     -Solved Three Scenario-based Problems (Day-5)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-5 Robo Warehouse](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/robowarehouse)<br>
+  👉[Day-5 Cinema Warehouse](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/cinemahouse)<br>
+  👉[Day-5 Crop Monitor](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/cropmonitor)<br>
+ 
+  
+  ----
+
+
+ 
+  ### Date: 17 Jan 2026  (Data Structure Algorithms(Scenario-Based))
+     -Solved Four Scenario-based Problems (Day-6)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-6 Art Expo](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/artexpo)<br>
+  👉[Day-6 Fleet Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/fleetmanager)<br>
+  👉[Day-6 Ice-Cream Rush](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/icecreamrush)<br>
+  👉[Day-6 Smart library](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/smartshelf)<br>
+  
+
+  ----
+
+
+  ### Date: 19 Jan 2026  (Data Structure Algorithms(Scenario-Based))
+     -Solved Four Scenario-based Problems (Day-7)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-7 Edu Results](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/eduresults)<br>
+  👉[Day-7 Flash DealZ](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/flashdealz)<br>
+  👉[Day-7 Fitness Tracker](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/fitnesstracker)<br>
+
+
+
+  ----
+
+
+
+  
