@@ -734,4 +734,56 @@ Implemented and solved problems based on Algorithm's and Runtime Analysis
   👉[Day-4 Exam Cell](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/examcell)<br>
   
  
-  ---
+-----
+
+
+
+
+# 📅 Date: 16-Jan-2026
+Java Collections Framework
+
+Branch: java-collections-practice
+
+Built strong fundamentals of Java Collections Framework
+
+Practiced core concepts of:
+
+List
+
+Set
+
+Queue
+
+Map
+
+Solved multiple hands-on problems focusing on real-world usage
+
+Improved understanding of collection behavior, operations, and performance
+
+🔗 Code Link:[Collections in Java](http://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/collections)
+
+
+📅 Date: 16-Jan-2026
+Data Structures & Algorithms
+
+Topic: Scenario-Based Problems (Sorting Algorithms)
+Branch: dsa-practice
+
+Solved three scenario-based DSA problems
+
+Applied different sorting algorithms based on problem constraints
+
+Focused on:
+
+Algorithm selection
+
+Time complexity awareness
+
+Logical problem-solving
+
+Strengthened fundamentals of sorting techniques through practical scenarios
+
+🔗 Code Link:
+- [RoboWareHouse](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/robowarehouse)
+- [CinemaHouse](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/cinemahouse)
+- [CropMonitor](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/cropmonitor)
