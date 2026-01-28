@@ -784,6 +784,30 @@ Logical problem-solving
 Strengthened fundamentals of sorting techniques through practical scenarios
 
 🔗 Code Link:
-- [RoboWareHouse](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/robowarehouse)
-- [CinemaHouse](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/cinemahouse)
-- [CropMonitor](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/cropmonitor)
+- 👉[RoboWareHouse](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/robowarehouse)
+- 👉[CinemaHouse](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/cinemahouse)
+- 👉[CropMonitor](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/cropmonitor)
+
+
+----
+
+
+### Date: 17-Jan-2026 (Java Collections Framework and OOPS- Scenario based Problems)
+-	Solved Two OOPs Scenario-based Problems
+-	Solved Five DSA Scenario-based Problems
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
+
+## 📅 Date: 17 Jan 2026 - Scenario-Based(OOP's And DSA)<br> 
+ 
+  
+     -Solved Four Scenario-based Problems (DSA) 
+     
+  🔗 **Code Link:** <br>
+  👉[Ice Cream Rush](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/icecreamrush)<br>
+  👉[ Smart Library](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/smartshelf)<br>
+
+  👉[ Art Expo](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/artexpo)<br>
+  
+  👉[ Fleet Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/fleetmanager)
