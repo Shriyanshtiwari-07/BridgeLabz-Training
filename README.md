@@ -17,4 +17,24 @@ This repository contains my hands-on work and assignments based on **Java 8 feat
 **Assignment Submission Link:**
 - 🔗 https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/lambdaExpression
 
----
+
+-----
+
+
+## 🔹 02. Functional Interfaces
+**📅 Date:** 27 Jan  
+**🗓️ Week:** Week 1  
+
+**Overview:**
+- Concept of functional interfaces  
+- `@FunctionalInterface` annotation  
+- Built-in functional interfaces (Predicate, Function, Consumer, Supplier)  
+- Custom functional interfaces  
+
+**Assignment Submission Link:**
+- 🔗 https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/functionalInterface
+
+
+
+
+------
