@@ -38,3 +38,21 @@ This repository contains my hands-on work and assignments based on **Java 8 feat
 
 
 ------
+
+
+
+## 🔹 03. Stream API
+**📅 Date:** 28 Jan  
+**🗓️ Week:** Week 1  
+
+**Overview:**
+- Stream creation  
+- Intermediate operations (map, filter, sorted)  
+- Terminal operations (forEach, collect, reduce)  
+- Difference between Collection and Stream  
+
+**Assignment Submission Link:**
+- 🔗 https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/streamapi
+
+
+-----
