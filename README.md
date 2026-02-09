@@ -811,3 +811,14 @@ Strengthened fundamentals of sorting techniques through practical scenarios
   👉[ Art Expo](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/artexpo)<br>
   
   👉[ Fleet Manager](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/fleetmanager)
+
+
+----
+
+
+## 📅 Date: 19 Jan 2026 - Scenario-Based(OOP's And DSA)<br> 
+
+-	Solved Three Scenario-based Problems
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src)
+---
