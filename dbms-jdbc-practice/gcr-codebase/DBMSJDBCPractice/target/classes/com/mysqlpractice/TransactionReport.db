@@ -1,0 +1,106 @@
+create database bank_db;
+Query OK, 1 row affected (0.02 sec)
+
+mysql> use bank_db;
+Database changed
+
+--- Account table created -----
+
+mysql> create table accounts(account_id int primary key,account_name varchar(25),balance decimal(10,2));
+Query OK, 0 rows affected (0.03 sec)
+
+---- transactions table created------
+
+mysql> create table transactions(txn_id int auto_increment primary key, from_account int, to_account int, amount decimal(10,2),txn_time timestamp default current_timestamp);
+Query OK, 0 rows affected (0.03 sec)
+
+----- inserting values -------
+
+mysql> insert into accounts values(101,'Shriyansh',2000),(102,'Ravi',3000),(103,'Vedansh',2500),(104,'Ritesh',2000);
+Query OK, 4 rows affected (0.01 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+mysql> show table accounts;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts' at line 1
+mysql> select * from accounts;
++------------+--------------+---------+
+| account_id | account_name | balance |
++------------+--------------+---------+
+|        101 | Shriyansh    | 2000.00 |
+|        102 | Ravi         | 3000.00 |
+|        103 | Vedansh      | 2500.00 |
+|        104 | Ritesh       | 2000.00 |
++------------+--------------+---------+
+4 rows in set (0.00 sec)
+
+mysql> select * from transactions;
+Empty set (0.00 sec)
+
+------ Choose account_name ---------
+
+mysql> select account_id, account_name, balance from accounts where account_id = 101;
++------------+--------------+---------+
+| account_id | account_name | balance |
++------------+--------------+---------+
+|        101 | Shriyansh    | 2000.00 |
++------------+--------------+---------+
+1 row in set (0.00 sec)
+
+----- Transaction Process --------
+mysql> start transactions; update accounts set balance = balance - 1000 where account_id = 101; update accounts set balance = balance + 1000 where account_id = 102; commit;
+
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+------- Transaction Process --------
+
+mysql> select * from accounts;
++------------+--------------+---------+
+| account_id | account_name | balance |
++------------+--------------+---------+
+|        101 | Shriyansh    | 1000.00 |
+|        102 | Ravi         | 4000.00 |
+|        103 | Vedansh      | 2500.00 |
+|        104 | Ritesh       | 2000.00 |
++------------+--------------+---------+
+4 rows in set (0.00 sec)
+
+mysql> start transaction;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> start transaction; update accounts set balance = balance - 9000 where account_id = 101; rollback;
+Query OK, 0 rows affected (0.00 sec)
+
+
+mysql> select * from accounts;
++------------+--------------+---------+
+| account_id | account_name | balance |
++------------+--------------+---------+
+|        101 | Shriyansh    | 1000.00 |
+|        102 | Ravi         | 4000.00 |
+|        103 | Vedansh      | 2500.00 |
+|        104 | Ritesh       | 2000.00 |
++------------+--------------+---------+
+4 rows in set (0.00 sec)
+
+mysql> select * from transactions;
+Empty set (0.00 sec)
+
+mysql> select * from transactions where from_account = 101 or to_account = 101;
+Empty set (0.00 sec)
+
+mysql> insert into transactions(from_account, to_account,amount) values (101, 102, 10000); commit;
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 0 rows affected (0.00 sec)
+
+-------- Show Transactions --------
+
+mysql> select * from transactions where from_account = 101 or to_account = 101;
++--------+--------------+------------+----------+---------------------+
+| txn_id | from_account | to_account | amount   | txn_time            |
++--------+--------------+------------+----------+---------------------+
+|      1 |          101 |        102 | 10000.00 | 2026-02-09 15:39:04 |
++--------+--------------+------------+----------+---------------------+
+1 row in set (0.00 sec)
+
