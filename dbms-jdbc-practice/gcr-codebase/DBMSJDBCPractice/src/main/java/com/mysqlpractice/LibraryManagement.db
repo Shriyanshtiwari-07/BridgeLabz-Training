@@ -1,0 +1,132 @@
+
+mysql> use library_db
+Database changed
+
+------Table Books--------- 
+mysql> create table books(book_id int primary key, title varchar(50), author varchar(50),category varchar(30), total_copies int, available_copies int );
+Query OK, 0 rows affected (0.13 sec)
+
+
+mysql> select * from books;
+Empty set (0.01 sec)
+
+-------Table students--------
+
+mysql> create table students(student_id int primary key, student_name varchar(50));
+Query OK, 0 rows affected (0.08 sec)
+
+
+-------Table Borrow_records--------------
+
+
+mysql> create table borrow_records(borrow_id int auto_increment primary key, student_id int, book_id int, borrow_date DATE, return_date DATE, fine DECIMAL(6,2));
+Query OK, 0 rows affected (0.03 sec)
+
+----------Insert in Books----------------
+
+insert into books values(' at line 1
+mysql> insert into books values(1,'Java Basics','Shriyansh','Programming',5,5),(2,'SQL Query','Vedansh','Database',5,5),(3,'Data Structures','Ashish','Programming',3,3);
+Query OK, 3 rows affected (0.01 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> select * from books;
++---------+-----------------+-----------+-------------+--------------+------------------+
+| book_id | title           | author    | category    | total_copies | available_copies |
++---------+-----------------+-----------+-------------+--------------+------------------+
+|       1 | Java Basics     | Shriyansh | Programming |            5 |                5 |
+|       2 | SQL Query       | Vedansh   | Database    |            5 |                5 |
+|       3 | Data Structures | Ashish    | Programming |            3 |                3 |
++---------+-----------------+-----------+-------------+--------------+------------------+
+3 rows in set (0.00 sec)
+
+-----------insert into students-------------
+
+mysql> insert into students values (101, 'Rahul'),(102,'Neha');
+Query OK, 2 rows affected (0.00 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+
+mysql> select * from students;
++------------+--------------+
+| student_id | student_name |
++------------+--------------+
+|        101 | Rahul        |
+|        102 | Neha         |
++------------+--------------+
+2 rows in set (0.00 sec)
+
+------TRANSACTION--------------
+
+
+mysql> start transaction; update books set available_copies = available_copies - 1 where book_id = 1 and available_copies > 0; insert into borrow_records (student_id, book_id, borrow_date) values (101,1,curdate()); commit;
+Query OK, 0 rows affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> update borrow_records set return_date = curdate(), fine = greatest((curdate)- 7,0) *5 where borrow_id = 1; update books set available_copies= available_copies + 1 where book_id = 1;
+ERROR 1054 (42S22): Unknown column 'curdate' in 'field list'
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select * from books;
++---------+-----------------+-----------+-------------+--------------+------------------+
+| book_id | title           | author    | category    | total_copies | available_copies |
++---------+-----------------+-----------+-------------+--------------+------------------+
+|       1 | Java Basics     | Shriyansh | Programming |            5 |                5 |
+|       2 | SQL Query       | Vedansh   | Database    |            5 |                5 |
+|       3 | Data Structures | Ashish    | Programming |            3 |                3 |
++---------+-----------------+-----------+-------------+--------------+------------------+
+3 rows in set (0.00 sec)
+
+mysql> select s.student_name, b.title, br.borrow_date, br.return_date, br.fine from borrow_records br join students s on br.student_id = s.student_id join books b on br.book_id = b.book_id where s.student_id = 101;
++--------------+-------------+-------------+-------------+------+
+| student_name | title       | borrow_date | return_date | fine |
++--------------+-------------+-------------+-------------+------+
+| Rahul        | Java Basics | 2026-02-11  | NULL        | NULL |
++--------------+-------------+-------------+-------------+------+
+1 row in set (0.00 sec)
+
+mysql> select * from books where author = 'James';
+Empty set (0.01 sec)
+
+mysql> select * from books where author = 'Ashish';
++---------+-----------------+--------+-------------+--------------+------------------+
+| book_id | title           | author | category    | total_copies | available_copies |
++---------+-----------------+--------+-------------+--------------+------------------+
+|       3 | Data Structures | Ashish | Programming |            3 |                3 |
++---------+-----------------+--------+-------------+--------------+------------------+
+1 row in set (0.00 sec)
+
+mysql> select * from books where category = 'Programming';
++---------+-----------------+-----------+-------------+--------------+------------------+
+| book_id | title           | author    | category    | total_copies | available_copies |
++---------+-----------------+-----------+-------------+--------------+------------------+
+|       1 | Java Basics     | Shriyansh | Programming |            5 |                5 |
+|       3 | Data Structures | Ashish    | Programming |            3 |                3 |
++---------+-----------------+-----------+-------------+--------------+------------------+
+2 rows in set (0.00 sec)
+
+mysql> select * from books where title like %Java% and  category = 'Programming';
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%Java% and  category = 'Programming'' at line 1
+mysql> select * from books where title like '%Java%' and  category = 'Programming';
++---------+-------------+-----------+-------------+--------------+------------------+
+| book_id | title       | author    | category    | total_copies | available_copies |
++---------+-------------+-----------+-------------+--------------+------------------+
+|       1 | Java Basics | Shriyansh | Programming |            5 |                5 |
++---------+-------------+-----------+-------------+--------------+------------------+
+1 row in set (0.00 sec)
+
+mysql> select * from books where available_copies > 0;
++---------+-----------------+-----------+-------------+--------------+------------------+
+| book_id | title           | author    | category    | total_copies | available_copies |
++---------+-----------------+-----------+-------------+--------------+------------------+
+|       1 | Java Basics     | Shriyansh | Programming |            5 |                5 |
+|       2 | SQL Query       | Vedansh   | Database    |            5 |                5 |
+|       3 | Data Structures | Ashish    | Programming |            3 |                3 |
++---------+-----------------+-----------+-------------+--------------+------------------+
+3 rows in set (0.00 sec)
