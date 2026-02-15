@@ -924,4 +924,72 @@ Strengthened fundamentals of sorting techniques through practical scenarios
 -	Solved Three Scenario-based Problems
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 - Code Link: [dsa-practice(scenario-code-base)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src)
+
+
 ---
+
+
+### Date: 20-Jan-2026 (Data Structure Algorithms(Scenario-Based)- Sorting Algorithms)
+-	Solved Three Scenario-based Problems
+-	Worked on exception handling
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com)
+- Code Link: [java-collections-practice(Exception Handling)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/exception)
+---
+### Date: 21-Jan-2026 (Java Collections and Data Structure(Scenario-Based) problems)
+- Solved Two sorting scenario-based problem
+- Solved Three Binary search tree scenario based problems
+- Worked on regex and junit practice
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com)
+- Code Link: [java-collections-practice(junit)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/JUnit)
+- Code Link: [java-collections-practice(regex)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/regex)
+---
+### Date: 22-Jan-2026 (Java Collections and Data Structure(Scenario-Based) problems)
+- Solved AVL Tree scenario-based problems
+- Worked on annotations
+- Worked on reflections
+- Code Link: [java-collections-practice(annotations)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/annotations)
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com)
+
+---
+
+## Week 5 : Java I/O Streams
+### Date: 23-Jan-2026 (CSV file Handling in Java)
+- Learned and solved CSV file data handling
+- Solved Five collecions scenario-based problems
+- Code Link: [java-collections-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-practice/src)
+- Code Link: [java-iostreams-practice(csv)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIOStreamConcepts/src/com/csvdata)
+---
+### Date: 24-Jan-2026 (Json file handling)
+- Learned and solved JSON file handling
+- Solved collections scenario-based problems
+- Code Link: [java-collections-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-practice/src)
+- Code Link: [java-iostreams-practice(json)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIOStreamConcepts/src/com/jsondata)
+
+---
+
+### Date: 27-Jan-2026 (java8 & its features)
+- Create new branch `java8-programmming-practice`
+- Solved Collections Problems based on Lambda Expressions
+- Lambda Expressions
+- Method References
+- Solved Collections Problems based on Functional Interfaces
+- Defining and Implementing Interfaces (Best Practices)
+- Functional Interfaces
+- Default and Static Methods in Interfaces
+- Marker Interfaces
+- Improved design and problem-solving skills
+🔗 Code Link:  
+- [java8-programmming-practice(Lambda Expressions)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/lambdaExpression)
+- [java8-programmming-practice(Functional Interfaces)](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/functionalInterface)
+---
+### 28-Jan-2026 (Stream API & collectors)
+- Solved Stream API Problems
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+- Solved Collectors Problems
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
