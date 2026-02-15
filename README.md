@@ -2,8 +2,7 @@
 This repository tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each day includes Git/GitHub activities, Java concepts, and committed code links.
 ---
 
-## 📂 Project Structure
-
+```bash
 BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
@@ -15,13 +14,13 @@ BridgeLabz-Training/
 │   │   ├── 📁 methods/                # Method practices
 │   │   ├── 📁 strings/                # String manipulation 
 │   │   └── 📁 Extras/                 # Built-in methods
-|   |
+│   │
 │   ├── 📁 leet-code-codebase/         # LeetCode solutions
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 ├── 📁 java-oops-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 JavaOopsConcepts/
+│   │   └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
@@ -30,13 +29,13 @@ BridgeLabz-Training/
 │   │               ├── 📁 objectmodeling/    # Diagrams, relationships, communication
 │   │               ├── 📁 inheritance/       # Types, method overriding, & access modifiers
 │   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
-|   |
+│   │
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
-|
+│
 ├── 📁 dsa-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 DSAConcepts/
+│   │   └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 linkedlists/       # singly, doubly & circular
@@ -46,58 +45,60 @@ BridgeLabz-Training/
 │   │               ├── 📁 sorting/           # Sorting algorithms
 │   │               ├── 📁 searching/         # Searching algorithms
 │   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
-|   |
+│   │
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
-|
+│
 ├── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
 │   │   └── 📁 JavaCollections/
 │   │       └── 📁 src/
-│   │            ├── 📁 generics/
-│   │            ├── 📁 collections/
-|   |            ├── 📁 JavaStreams/
-|   |            ├── 📁 ExceptionHandling/
-|   |            ├── 📁 Annotations/
-|   |            ├── 📁 Reflection/
-|   |
+│   │           ├── 📁 generics/
+│   │           ├── 📁 collections/
+│   │           ├── 📁 JavaStreams/
+│   │           ├── 📁 ExceptionHandling/
+│   │           ├── 📁 Annotations/
+│   │           └── 📁 Reflection/
+│   │
 │   └── 📁 scenario-based-codebase/
-|
+│
 ├── 📁 java-iostreams-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 IOStreamsConcepts/
+│   │   └── 📁 IOStreamsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, large-file handling
 │   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
-|   |
+│   │
 │   └── 📁 scenario-based-codebase/           # Real-world problems
-|
+│
 ├── 📁 java8-programming-practice/
 │   ├── 📁 gcr-codebase/
 │   │   └── 📁 Java8Concepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
+│   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces
 │   │               ├── 📁 methodreferences/  # Static, instance, constructor references
-│   │               ├── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│   │               ├── 📁 interfaces/        # Default & static methods
 │   │               ├── 📁 streams/           # Stream API, intermediate & terminal operations
-│   │               ├── 📁 collectors/        # Grouping, partitioning, summarizing collectors
-│   │               └── 📁 workshop/          # Mini projects & real-world stream problems
-|   |
+│   │               ├── 📁 collectors/        # Grouping, partitioning, summarizing
+│   │               └── 📁 workshop/          # Mini projects & real-world problems
+│   │
 │   └── 📁 scenario-based-codebase/           # Real-world problems
-|
+│
 ├── 📁 java-design-pattern-practice/
 │   ├── 📁 gcr-codebase/
 │   │   └── 📁 DesignConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 designprinciples/  # SOLID principles and design patterns
-│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples 
-|   |
+│   │               ├── 📁 designprinciples/  # SOLID principles & patterns
+│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency
+│   │
 │   └── 📁 scenario-based-codebase/           # Real-world problems
-|
+│
 └── README.md
+```
+
 
 
 # Week 1: Git, GitHub & Java Programming Fundamentals
