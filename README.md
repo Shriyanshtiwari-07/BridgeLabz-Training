@@ -135,3 +135,21 @@ BridgeLabz-Training/
 │
 └── README.md
 ```
+----
+
+##  Learning Milestones
+
+### **Week 1 : Core Java Programming**
+
+
+
+| Day |     Date    | Topic                           | Coverage                              |
+|-----|-------------|---------------------------------|---------------------------------------|
+|   1 | 15-Dec      | Git & GitHub Setup              | Repository setup, Git workflow        |
+|   2 | 16-Dec      | Java Basics                     | Basic syntax, prerequisites           |
+|   3 | 17-Dec      | Programming Elements            | Data types, operators, input handling |
+|   4 | 18-Dec      | Control Flow                    | Conditions, loops, logical problems   |
+|   5 | 19-Dec      | Arrays                          | 1D & 2D arrays, traversal             |
+|   6 | 20-Dec      | Methods                         | Method declaration, parameters        |
+|   7 | 22-Dec      | Strings                         | String creation, methods              |
+|   8 | 23-Dec      | Built-in Functions & Exceptions | Math, Random, Date-Time, exceptions   |
