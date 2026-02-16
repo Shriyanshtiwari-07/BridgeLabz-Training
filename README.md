@@ -153,3 +153,14 @@ BridgeLabz-Training/
 |   6 | 20-Dec      | Methods                         | Method declaration, parameters        |
 |   7 | 22-Dec      | Strings                         | String creation, methods              |
 |   8 | 23-Dec      | Built-in Functions & Exceptions | Math, Random, Date-Time, exceptions   |
+
+### **Week 2 : Object-Oriented Programming**
+
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|   9 | 26-Dec      | OOP Basics                     | Procedural vs OOP, fundamentals        |
+|  10 | 27-Dec      | Constructors & Static Concepts | Constructors, access modifiers, static |
+|  11 | 29-Dec      | `this`, `final`, `static`      | Keywords, instance vs class members    |
+|  12 | 30-Dec      | Object Modeling                | Diagrams, relationships, communication |
+|  13 | 31-Dec      | Inheritance & Types            | Inheritance types and  access modifiers|
+|  14 | 01-Jan      | Encapsulation & Polymorphism   | Data hiding, polymorphism, interfaces  |
