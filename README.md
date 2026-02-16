@@ -176,3 +176,13 @@ BridgeLabz-Training/
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 |  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 |  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
+
+### **Week 4 : Collections Framework in Java**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
+| 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
+| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
+| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
+| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
+| 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
