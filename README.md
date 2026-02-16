@@ -37,3 +37,101 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 **Week 8** : DBMS, SQL & JDBC Fundamentals
 
 ---
+
+
+```bash
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+│   │
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
+│
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               ├── 📁 constructor/       # Constructor, access modifiers
+│   │               ├── 📁 finalandstatic/    # Keywords, instance vs class members
+│   │               ├── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │               ├── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   │
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+│
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/       # singly, doubly & circular
+│   │               ├── 📁 stacks/            # Last-In-First-Out (LIFO)
+│   │               ├── 📁 queues/            # First-In-First-Out (FIFO)
+│   │               ├── 📁 hashmaps/          # Key-Value pairs
+│   │               ├── 📁 sorting/           # Sorting algorithms
+│   │               ├── 📁 searching/         # Searching algorithms
+│   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
+│   │
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+│
+├── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaCollections/
+│   │       └── 📁 src/
+│   │           ├── 📁 generics/
+│   │           ├── 📁 collections/
+│   │           ├── 📁 JavaStreams/
+│   │           ├── 📁 ExceptionHandling/
+│   │           ├── 📁 Annotations/
+│   │           └── 📁 Reflection/
+│   │
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 IOStreamsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, large-file handling
+│   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+│   │
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+│
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 Java8Concepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces
+│   │               ├── 📁 methodreferences/  # Static, instance, constructor references
+│   │               ├── 📁 interfaces/        # Default & static methods
+│   │               ├── 📁 streams/           # Stream API, intermediate & terminal operations
+│   │               ├── 📁 collectors/        # Grouping, partitioning, summarizing
+│   │               └── 📁 workshop/          # Mini projects & real-world problems
+│   │
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+│
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DesignConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 designprinciples/  # SOLID principles & patterns
+│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency
+│   │
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+│
+└── README.md
+```
