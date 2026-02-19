@@ -346,3 +346,19 @@ BridgeLabz-Training/
 ----
 
 
+### `java-collections-practice` :
+- 📌 [Generics](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/generics)
+- 📌 [List Interface](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/collections/ListInterface)
+- 📌 [Set Interface](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/collections/SetInterface)
+- 📌 [Queue Interface](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/collections/SetInterface)
+- 📌 [Map Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/mapinterface)
+- 📌 [I/O Streams](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/streams)
+- 📌 [Exception Handling](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/exception)
+- 📌 [Regex - Regular Expressions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/regex)
+- 📌 [JUnit](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/JUnit)
+- 📌 [JUnit Testing](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/JUnitTests)
+- 📌 [Reflection](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/Reflection)
+- 📌 [Annotations](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/Annotations)
+- 📌 [Collections](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/collections)
+
+- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/scenario-based-codebase/ScenarioPracticeCollections/src/com)
