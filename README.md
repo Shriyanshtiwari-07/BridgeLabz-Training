@@ -368,3 +368,14 @@ BridgeLabz-Training/
 ### `java-iostreams-practice` :
 - 📌 [CSV Data Handling](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIOStreamConcepts/src/com/csvdata)
 - 📌 [JSON Data Handling](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIOStreamConcepts/src/com/jsondata)
+
+----
+
+
+### `java8-programming-practice` :
+- 📌 [Lambda Expressions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/lambdaExpression)
+- 📌 [Method References](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
+- 📌 [Interfaces](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/functionalInterface)
+- 📌 [Streams](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/streamapi)
+- 📌 [Collectors](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/collectors)
+- 📌 [Workshop](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/workshop/smartcity)
