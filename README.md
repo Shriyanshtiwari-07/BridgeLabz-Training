@@ -316,3 +316,16 @@ BridgeLabz-Training/
 - 📌 [Built-In Functions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras/Build-In%20Functions)
 - 📌 [LeetCode Solutions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings)
 - 📌 [Scenario-Based Solutions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+-----
+
+
+
+### `java-oops-practice` :
+- 📌 [Classes and Objects](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
+- 📌 [Constructors ](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructors/levelone)
+- 📌 [Object Modeling & Relations](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/bridgelabz/oops)
+- 📌 [Inheritance & Types](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+- 📌 [Encapsulation & Polymorphism](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)
+- 📌 [Scenario-Based Solutions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
