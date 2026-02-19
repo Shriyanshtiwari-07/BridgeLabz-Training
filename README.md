@@ -302,3 +302,17 @@ BridgeLabz-Training/
 - **Design Patterns**: DAO and DTO for database applications
 
 ---
+
+
+## 🔗 Quick Links
+
+### `core-java-practice` :
+- 📌 [Prerequisites](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+- 📌 [Control Flows](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/controls-flows)
+- 📌 [Programming Elements](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+- 📌 [Arrays](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+- 📌 [Methods](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
+- 📌 [Strings](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
+- 📌 [Built-In Functions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras/Build-In%20Functions)
+- 📌 [LeetCode Solutions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays-strings)
+- 📌 [Scenario-Based Solutions](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
