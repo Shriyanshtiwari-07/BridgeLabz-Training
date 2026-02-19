@@ -379,3 +379,11 @@ BridgeLabz-Training/
 - 📌 [Streams](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/streamapi)
 - 📌 [Collectors](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/collectors)
 - 📌 [Workshop](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Concepts/src/com/workshop/smartcity)
+
+
+----
+
+
+### `java-design-pattern-practice` :
+- 📌 [Design Principles & Patterns](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-programming/gcr-codebase/JavaDesignPatternConcepts/src/com/designprinciples/librarycasestudy)
+- 📌 [Multithreading](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-programming/gcr-codebase/JavaDesignPatternConcepts/src/com/multithreading)
