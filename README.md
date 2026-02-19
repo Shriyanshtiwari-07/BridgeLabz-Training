@@ -362,3 +362,9 @@ BridgeLabz-Training/
 - 📌 [Collections](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/collections)
 
 - 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/scenario-based-codebase/ScenarioPracticeCollections/src/com)
+
+----
+
+### `java-iostreams-practice` :
+- 📌 [CSV Data Handling](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIOStreamConcepts/src/com/csvdata)
+- 📌 [JSON Data Handling](https://github.com/Shriyanshtiwari-07/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIOStreamConcepts/src/com/jsondata)
